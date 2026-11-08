@@ -1,8 +1,8 @@
 # SpotterNode: A Wearable Iot-Based Anti-Kidnapping System Featuring Edge AI Voice Validation And Power-Gated Telemetry 
 
 **Status:** System Design & Hardware Assembly (Final Year EEE Thesis)
-Phase 1: Hardware Architecture and Component Procurement completed.
-Phase 2: Breadboard validation and firmware development actively underway.
+1. **Phase 1:** Hardware Architecture and Component Procurement completed.
+2. **Phase 2:** Breadboard validation and firmware development actively underway.
 
 ## Project Overview
 A covert, wearable IoT security node disguised as a body sttrap. Designed to bypass assailant scrutiny in high-risk zones, the system prioritizes a "Silent-First Protocol" to capture evidence and transmit real-time GPS coordinates under duress.
